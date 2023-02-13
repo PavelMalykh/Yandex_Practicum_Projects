@@ -1,7 +1,6 @@
-<center></center>
+<center><h1>Проекты Data Science Яндекс.Практикум</h1></center>
 <br>
 <p align=center>
-<h1>Проекты Яндекс.Практикум по направлению Data Science</h1>
 В данном репозитории собраны проекты, выполненные в процессе обучения по программе профессиональной переподготовки Специалист по Data Science в Яндекс.Практикум
 <br>
   <a href="https://github.com/PavelMalykh/Yandex_Practicum_Projects/blob/main/Certificate/Pavel%20Malykh_20232DSB00007.pdf"><b>Certificate of completion the course (english version)</b><br>
