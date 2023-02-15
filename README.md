@@ -12,7 +12,9 @@
   <tr>
     <td width=25%>Проект</td>
     <td>Описание</td>
-    <td width=20%>Стек технологий</td>
+    <td width=15%>Стек технологий</td>
+    <td width=15%>Стек технологий</td>
+    <td width=15%>Стек технологий</td>
   </tr>
   <tr>
     <td><a href="https://github.com/PavelMalykh/Yandex_Practicum_Projects/blob/main/Project_Toxic_Comments/project_toxic_comments.ipynb">Классификация текстовых комментариев</a></td>
