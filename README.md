@@ -10,24 +10,30 @@
 <br>
 <table width=100% valign=top >
   <tr>
-    <td width=25%>Проект</td>
+    <td width=20%>Проект</td>
     <td>Описание</td>
     <td width=15%>Стек технологий</td>
-    <td width=15%>Стек технологий</td>
-    <td width=15%>Стек технологий</td>
+    <td width=15%>Целевая метрика</td>
+    <td width=15%>Достигнутая метрика</td>
   </tr>
   <tr>
     <td><a href="https://github.com/PavelMalykh/Yandex_Practicum_Projects/blob/main/Project_Toxic_Comments/project_toxic_comments.ipynb">Классификация текстовых комментариев</a></td>
     <td>Классификация текстовых комментариев на позитивные и негативные</td>
     <td>Pandas, Matplotlib, Seaborn, SciPy, Numpy, NLTK, Sklearn</td>
+    <td>F1-мера не менее 0.75</td>
+    <td>F1-мера 0.82</td>
   </tr>
   <tr>
     <td><a href="https://github.com/PavelMalykh/Yandex_Practicum_Projects/blob/main/Project_Gold_Recovery/project_gold_recovery.ipynb">Прогнозирование восстановления золота из руды</a></td>
     <td>Прогнозирование значения концентрации золота на разных этапах процесса очистки золотосодержащей руды</td>
     <td>Pandas, Matplotlib, Seaborn, Numpy, LightGBM, Sklearn</td>
+    <td>DummyRegressor sMAPE 0.74</td>
+    <td>sMAPE 5.9</td>
   </tr>
   <tr>
     <td><a href="https://github.com/PavelMalykh/Yandex_Practicum_Projects/blob/main/Project_Telecom/project_telecom.ipynb">Прогнозирование оттока клиентов оператора связи</a></td>
     <td>Прогнозирование разрыва договора на оказание услуг оператором связи для планирования промоакций с целью удержания клиентов</td>
     <td>Pandas, Matplotlib, Seaborn, Numpy, LightGBM, Catboost, Sklearn, PhiK</td>
+    <td>ROC-AUC не менее 0.85</td>
+    <td>ROC-AUC 0.945</td>
   </tr>
