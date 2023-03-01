@@ -27,7 +27,7 @@
     <td><a href="https://github.com/PavelMalykh/Yandex_Practicum_Projects/blob/main/Project_Gold_Recovery/project_gold_recovery.ipynb">Прогнозирование восстановления золота из руды</a></td>
     <td>Прогнозирование значения концентрации золота на разных этапах процесса очистки золотосодержащей руды</td>
     <td>Pandas, Matplotlib, Seaborn, Numpy, LightGBM, Sklearn</td>
-    <td>DummyRegressor sMAPE 0.74</td>
+    <td>DummyRegressor sMAPE 7.4</td>
     <td>sMAPE 5.9</td>
   </tr>
   <tr>
